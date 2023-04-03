@@ -6,4 +6,4 @@ Some Description!
 Watch some youtube.
 
 ## local dev
-1. open index.html in your browser
+1. open index.html in your browser  
